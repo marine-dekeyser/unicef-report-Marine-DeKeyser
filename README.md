@@ -11,7 +11,7 @@ The analysis is built around 4 key visualizations:
 4. **Top 10 Priority Countries:** A targeted chart identifying the 10 nations currently in critical need of water infrastructure intervention.
 
 ## 🚀 View the Report
-👉 **[Click here to access the full interactive report]()**
+👉 **[Click here to access the full interactive report](https://marine-dekeyser.github.io/unicef-report-Marine-DeKeyser/unicef_report_Marine_DeKeyser.html)**
 
 ---
 *By Marine De Keyser | DCU - Data Analytics & Story telling *
